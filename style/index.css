@@ -7,7 +7,7 @@ body {
 
 @font-face {
     font-family: 'Noto Sans Lao';
-    src: url('../font/NOTOSANSLAO-EXTRABOLD.TTF') format('truetype');
+    src: url('./font/NOTOSANSLAO-EXTRABOLD.TTF') format('truetype');
 
 }
 
